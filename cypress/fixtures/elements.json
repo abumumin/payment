@@ -1,0 +1,12 @@
+{
+  "emailField": "input[placeholder='Enter Email']",
+  "emailText": "payments@vendease.com",
+  "passwordField": "input[placeholder='Enter Password']",
+  "passwordText": "$pass@admin:payments%",
+  "loginButton": "button[type='submit']",
+  "clientManagement": "a[href='/admin/client']",
+  "createclientButton" : "span.hidden",
+  "gateway": "a[href='/admin/gateway']",
+  "transfer": "span[_ngcontent-ng-c3653813517=''][class='ng-tns-c3653813517-152 ng-star-inserted text-primary'][xpath='1']",
+  "clientMgmtAction": "span[class='mat-mdc-button-touch-target']"
+}

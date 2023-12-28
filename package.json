@@ -1,0 +1,24 @@
+{
+  "name": "payment-service",
+  "version": "1.0.0",
+  "description": "Web Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Payment-Service",
+    "Web",
+    "Automation"
+  ],
+  "author": "Mumin Abubakar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.0",
+    "cypress-fill-command": "^1.0.2"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^19.2.0",
+    "@cypress/webpack-preprocessor": "^6.0.0"
+  }
+}
